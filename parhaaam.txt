@@ -1,4 +1,4 @@
-//profile-title: Parham Warp+ ip Clean
+//profile-title: base64:UGFyaGFtIFdhcnArIGlwIENsZWFu
 //profile-update-interval: 12
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 warp://7WoDH524-A58E67ya-593Uz2gQ/?ifp=5-10
