@@ -1,3 +1,6 @@
-warp://7WoDH524-A58E67ya-593Uz2gQ@188.114.97.129:943/?ifp=5-10
-warp://0eX35M8A-x6ws10b3-gX2630lK@162.159.192.47:854/?ifp=5-10
-warp://n4H56Sz8-3V0lfK62-q98s37iO@188.114.96.158:987/?ifp=5-10
+//profile-title: Parham Warp+ ip Clean
+//profile-update-interval: 12
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+warp://7WoDH524-A58E67ya-593Uz2gQ/?ifp=5-10
+warp://0eX35M8A-x6ws10b3-gX2630lK/?ifp=5-10
+warp://n4H56Sz8-3V0lfK62-q98s37iO/?ifp=5-10
